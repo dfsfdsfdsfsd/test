@@ -1,7 +1,7 @@
 <?php
 	header('Content-Type: application/javascript');
 
-	$campaignId = '4hc6d8';
+	$campaignId = '314hfk';
 	$phpUrl = (is_https() ? "https://" : "http://"). $_SERVER['HTTP_HOST'] . $_SERVER['SCRIPT_NAME'];
 
 	function is_https()
