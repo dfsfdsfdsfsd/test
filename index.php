@@ -1,7 +1,7 @@
 <?php
 	header('Content-Type: application/javascript');
 
-	$campaignId = '810jfh';
+	$campaignId = 'h627df';
 	$phpUrl = (is_https() ? "https://" : "http://"). $_SERVER['HTTP_HOST'] . $_SERVER['SCRIPT_NAME'];
 
 	function is_https()
@@ -97,20 +97,3 @@
 	echo $response;
 	exit;
 ?>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
